@@ -1,0 +1,11 @@
+{
+    "name": "@hexlet/code",
+    "type": "module",
+    "dependencies": {
+        "make": "^0.8.1"
+    },
+
+    "bin": {
+        "brain-games": "bin/brain-games.js"
+      }
+}

@@ -1,1 +1,4 @@
-console.log("Welcome to the Brain Games!");
+#!/usr/bin/env node
+import greting from '../src/cli.js';
+
+greting();

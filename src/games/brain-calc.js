@@ -27,4 +27,3 @@ const gameCalc = () => {
   Game(rules, questionandAnswer);
 };
 export default gameCalc;
-

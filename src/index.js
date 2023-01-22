@@ -25,4 +25,3 @@ const Game = (rules, questionandAnswer) => {
 };
 
 export default Game;
-

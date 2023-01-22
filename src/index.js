@@ -25,8 +25,4 @@ const Game = (rules, questionandAnswer) => {
 };
 
 export default Game;
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privac
+
